@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"line": "block/redstone_dust_line0",
+		"overlay": "block/redstone_dust_overlay"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0.01],
+			"to": [16, 16, 0.01],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#line", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#line", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0, 0.01],
+			"to": [16, 16, 0.01],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#overlay"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#overlay"}
+			}
+		}
+	]
+}
