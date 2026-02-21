@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 69,
-    "description": "Custom Faithful by IcyShyro (V1.0.2 | 1.21.5 [1.21.x should also work])",
+    "description": "Custom Faithful by IcyShyro (V1.0.3 | 1.21.9 [1.21.x should also work])",
     "supported_formats": {
-      "min_inclusive": 33,
+      "min_inclusive": 54,
       "max_inclusive": 75
     }
   }

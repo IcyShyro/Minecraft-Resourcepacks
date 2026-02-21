@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 69,
+    "description": "Custom Faithful by IcyShyro (V1.0.4 | 1.21.11)",
+    "supported_formats": {
+      "min_inclusive": 68,
+      "max_inclusive": 75
+    }
+  }
+}
